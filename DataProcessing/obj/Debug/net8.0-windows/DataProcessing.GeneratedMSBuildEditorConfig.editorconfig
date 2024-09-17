@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DataProcessing
-build_property.ProjectDir = C:\Users\30085204\Desktop\SataliteData\Satelite Data\DataProcessing\
+build_property.ProjectDir = C:\Users\30085204\Desktop\SataliteData\SateliteData\DataProcessing\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
